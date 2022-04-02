@@ -1,2 +1,2 @@
-# 540A_Midterm_Problem_7
-540A Midterm Problem 7 Code in Jupyter Notebook
+# 540A Midterm Problem 4
+540A Midterm Problem 4 Code in Jupyter Notebook
